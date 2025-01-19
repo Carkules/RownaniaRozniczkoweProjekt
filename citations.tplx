@@ -1,0 +1,6 @@
+((*- extends 'RozniczkiProjekt.ipynb' -*))
+
+((* block bibliography *))
+\bibliographystyle{unsrt}
+\bibliography{jupyter}
+((* endblock bibliography *))
